@@ -12,6 +12,7 @@ const response = {
     titles: ["Frontend Developer"],
     birthDay: "25 June ",
     skills: ["JavaScript", "Tailwind", "React"],
+    hobbies:["gym", "podcast", "guitar", "running"],
     university: "CE Shiraz",
   }
 };
@@ -20,5 +21,3 @@ const response = {
 ⚡ Striving for clean code & smart solutions
 🚀 Exploring the intersection of logic & creativity
 🏛 Simplicity is the ultimate sophistication
-
-📫 Contact Me:
