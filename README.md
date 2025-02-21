@@ -1,9 +1,3 @@
-# Yashar Fathi
-
-**YasharFathi** • he/him  
-
----
-
 ```js
 const response = {
   status: 200,
