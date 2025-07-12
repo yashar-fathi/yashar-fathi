@@ -5,7 +5,7 @@ const response = {
     name: "Yashar Fathi",
     titles: ["Frontend Developer"],
     birthDay: "25 June ",
-    skills: ["JavaScript", "Tailwind", "React"],
+    skills: ["JavaScript", "Tailwind", "React" , "TypeScript", "Figma"],
     hobbies:["gym", "podcast", "guitar", "running"],
     university: "CE Shiraz",
   }
